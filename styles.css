@@ -10,6 +10,6 @@ body {
     --neutral-color: #143940;
     --text-color: #315123;
     --blank: #F8F6F3;
-    --primary-font: "Merriweather", serif;
-    --secondary-font: "Poppins", sans-serif;
+    --primary-font: "Poppins", sans-serif;
+    --secondary-font: "Merriweather", serif;
 }
