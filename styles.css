@@ -13,3 +13,7 @@ body {
     --primary-font: "Merriweather", serif;
     --secondary-font: "Poppins", sans-serif;
 }
+
+p, a, li {
+    font-family: var(--secondary-font);
+}
