@@ -46,3 +46,21 @@ p.italics {
     border-color: var(--primary-color);
     padding: 0.5rem 1rem;
 }
+
+.btn-success {
+    background-color: var(--text-color);
+    border-color: var(--text-color);
+    padding: 0.5rem 1rem;
+}
+
+.btn-danger {
+    background-color: var(--neutral-color);
+    border-color: var(--neutral-color);
+    padding: 0.5rem 1rem;
+}
+
+.btn-warning {
+    background-color: var(--highlight-color);
+    border-color: var(--highlight-color);
+    padding: 0.5rem 1rem;
+}
