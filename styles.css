@@ -41,6 +41,12 @@ p.italics {
     padding: 0.5rem 1rem;
 }
 
+.btn-outline-primary {
+    background-color: var(--highlight-color);
+    border-color: var(--primary-color);
+    padding: 0.5rem 1rem;
+    color: var(--primary-color);
+
 .btn-secondary {
     background-color: var(--secondary-color);
     border-color: var(--primary-color);
