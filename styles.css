@@ -41,13 +41,6 @@ p.italics {
     padding: 0.5rem 1rem;
 }
 
-.btn-outline-primary {
-    background-color: var(--highlight-color);
-    border-color: var(--primary-color);
-    padding: 0.5rem 1rem;
-    color: var(--primary-color);
-}
-
 .btn-secondary {
     background-color: var(--secondary-color);
     border-color: var(--primary-color);
@@ -70,4 +63,39 @@ p.italics {
     background-color: var(--highlight-color);
     border-color: var(--highlight-color);
     padding: 0.5rem 1rem;
+}
+
+.btn-outline-primary {
+    background-color: var(--highlight-color);
+    border-color: var(--primary-color);
+    padding: 0.5rem 1rem;
+    color: var(--primary-color);
+}
+
+.btn-outline-secondary {
+    background-color: var(--highlight-color);
+    border-color: var(--secondary-color);
+    padding: 0.5rem 1rem;
+    color: var(--secondary-color);
+}
+
+.btn-outline-success {
+    background-color: var(--highlight-color);
+    border-color: var(--text-color);
+    padding: 0.5rem 1rem;
+    color: var(--text-color);
+}
+
+.btn-outline-danger {
+    background-color: var(--highlight-color);
+    border-color: var(--neutral-color);
+    padding: 0.5rem 1rem;
+    color: var(--neutral-color);
+}
+
+.btn-outline-warning {
+    background-color: var(--highlight-color);
+    border-color: var(--highlight-color);
+    padding: 0.5rem 1rem;
+    color: var(--highlight-color);
 }
