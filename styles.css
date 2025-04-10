@@ -99,3 +99,35 @@ p.italics {
     padding: 0.5rem 1rem;
     color: var(--highlight-color);
 }
+
+.alert {
+    border-radius: 0px;
+    text-transform: none;
+    font-family: var(--secondary-font);
+}
+
+.alert-primary {
+    background-color: var(--primary-color);
+    border-color: var(--secondary-color);
+}
+
+.alert-secondary {
+    background-color: var(--secondary-color);
+    border-color: var(--primary-color);
+}
+
+.alert-success {
+    background-color: var(--text-color);
+    border-color: var(--text-color);
+    color: var(--blank);
+}
+
+.alert-danger {
+    background-color: var(--neutral-color);
+    border-color: var(--neutral-color);
+    color: var(--blank);
+}
+
+.alert-warning {
+    background-color: var(--highlight-color);
+    border-color: var(--highlight-color);
